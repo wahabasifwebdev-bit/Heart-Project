@@ -38,6 +38,11 @@ body{
     border-radius: 50px;
 }
 
+img {
+    width: 200px;
+    height: auto;
+}
+
 @keyframes heart {
     0%{
         transform: rotate(-45deg) scale(1.15);
